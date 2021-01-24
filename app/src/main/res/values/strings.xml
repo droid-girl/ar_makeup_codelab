@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AR Makeup</string>
+    <string name="java">Java</string>
+    <string name="banana">Banana</string>
+    <string name="coral">Coral</string>
+    <string name="peachy">Peachy</string>
+    <string name="choose_contour">Choose contour:</string>
+    <string name="choose_eyeshadow">Choose eyeshadow:</string>
+</resources>
