@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity(), AugmentedFaceListener {
    override fun onFaceUpdate(face: AugmentedFaceNode) {}
 }
 ```
-Check out the codelab -> https://arcore.how/posts/arcore-try-on-makeup/lab/#0
+Check out the new and updated repository -> [arfaces_labs](https://github.com/droid-girl/arfaces_labs)
 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=_xnUo4HL1QQ">
